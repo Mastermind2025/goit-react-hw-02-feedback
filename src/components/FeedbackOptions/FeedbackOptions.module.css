@@ -1,0 +1,16 @@
+.Feedback__container {
+    display: flex;
+    list-style: none;
+    justify-content: flex-start;
+}
+
+.Feedback__button {
+    padding: 7px;
+    margin: 8px;
+    cursor: pointer;
+    background-color: rgb(141, 141, 141);
+    color: #070707;
+    border: 1px solid transparent;
+    border-radius: 2px;
+    font-size: 18px;
+}
